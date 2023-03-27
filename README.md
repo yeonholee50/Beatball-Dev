@@ -1,1 +1,1 @@
-# cs2110game
+PlatformGame made for an assignment but later added additional features to keep track of scores - put random bounce trajectory to make the game more challenging but still possible to win in infinite time
