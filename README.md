@@ -1,4 +1,4 @@
-# PlatformGame README
+# PlatformGame
 
 Welcome to our PlatformGame, originally developed for an assignment but later enhanced with additional features to provide an engaging and competitive gaming experience. 
 
