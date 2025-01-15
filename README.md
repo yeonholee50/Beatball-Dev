@@ -34,7 +34,7 @@ To play our PlatformGame, simply download the executable file from our website a
 
 ## Credits
 
-PlatformGame was developed by [Your Name] and [Your Team]. Special thanks to [Acknowledgements], [Additional Contributors], and [Supporters] for their invaluable contributions to the project.
+PlatformGame was developed by Yeon Lee. 
 
 ## Feedback and Support
 
